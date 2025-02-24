@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.2.2
+boto3==1.35.81
+awslambdaric==3.0.0
+google-auth==2.38.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+google-api-python-client==2.160.0
+tenacity==9.0.0
